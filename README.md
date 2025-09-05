@@ -35,7 +35,7 @@ python -m pip install requests
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/Ubuntu_Requests.git
+   git clone https://github.com/Goofy-collab/Ubuntu_Requests.git
    cd Ubuntu_Requests
    ```
 
